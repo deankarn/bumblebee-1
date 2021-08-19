@@ -1,4 +1,4 @@
-Archived please see [Proteus](https://github.com/rust-playground/proteus) for a btter library.
+Archived please see [Proteus](https://github.com/rust-playground/proteus) for a better library.
 
 # Bumblebee &emsp; [![Build Status]][travis] [![Latest Version]][crates.io]
 
